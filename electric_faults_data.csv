@@ -1,0 +1,6 @@
+	date_of_trip	time_of_trip	weather	other_circuit	line_trip	load_of_line	voltage	frequency	other_line_status	date of restoration	time_of_restoration	observation	repair_carried	tripping_reason	type_of_fault	nature
+0	08-11-2017	05:39	cloudy	healthy	yes	71	237	49.87	NaN	08-11-2017	07:50	NaN	nil	bad weather	low	ABC
+1	10-05-2017	15:56	cloudy	healthy	yes	187	220	49.98	NaN	10-05-2017	16:34	NaN	nil	transient fault	high	ABC
+2	11-10-2017	12:35	clear	healthy	yes	124	229	49.94	NaN	11-10-2017	13:45	NaN	nil	foreign element	medium	ABC
+3	18-06-2017	05:37	clear	healthy	yes	105	228	50.01	NaN	18-06-2017	06:17	NaN	nil	foreign element	medium	ABC
+4	19-06-2017	06:30	rainy	healthy	yes	102	229	50.05	NaN	19-06-2017	07:18	disc puncture	feeder isolated	transient fault	medium	ABC
