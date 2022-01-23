@@ -10,6 +10,6 @@ some of the more common tools used durinr the Failure Analysis process:
  - Thermal Induced Desorption.
  - Electron Induced Desorption
   
- References
+References
 
-For more information about the RCA codes, please consult here: https://parthprasoon123.medium.com/root-cause-analysis-for-process-manufacturing-industry-e6b77a0e9b9d
+For more information about the RCA codes, please consult in the Source file.
